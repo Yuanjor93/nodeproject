@@ -9,6 +9,7 @@
     "ejs": "^2.5.5",
     "express": "~4.13.3",
     "gulp-install": "^0.6.0",
+    "mongodb": "^2.2.22",
     "socket.io": "~0.9.14"
   },
   "scripts": {
