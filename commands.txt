@@ -1,0 +1,11 @@
+ Start Mongodb: (turn jounaling)
+ mongod --bind_ip=$IP --nojournal
+ 
+ look at mongo shell (new terminal):
+ mongo
+ 
+ Start Server:
+ gulp serve
+ 
+ Inject Dependentcies:
+ gulp inject
